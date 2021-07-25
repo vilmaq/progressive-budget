@@ -8,6 +8,21 @@ Add functionality to our existing Budget Tracker application to allow for offlin
 
 The user using the Budget App can:
 
+Online Functionality:
+
 - Add Funds from the UI
 - Subtract Funds from the UI
-- Save the action result into the DB when and
+
+Offline Functionality:
+
+- Enter deposits offline
+- Enter expenses offline
+
+When brought back online:
+
+- Offline entries should be added to tracker.
+
+## Links
+
+- [Github](https://github.com/vilmaq/progressive-budget)
+- [Heroku]()
