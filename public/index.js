@@ -1,3 +1,4 @@
+//invokes the service worker checks if the service worker exists, if not registers a new one from service-worker.js
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
     navigator.serviceWorker.register('/service-worker.js')
