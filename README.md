@@ -22,6 +22,14 @@ When brought back online:
 
 - Offline entries should be added to tracker.
 
+## Printscreens
+
+How the application behaves when offline:
+![offline](public/icons/offline.png)
+
+When the application is online: the errors caused of the lack of the communication with the server are cleared
+![online](public/icons/after-online.png)
+
 ## Links
 
 - [Github](https://github.com/vilmaq/progressive-budget)
